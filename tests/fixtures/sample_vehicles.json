@@ -1,0 +1,45 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "2.0",
+    "timestamp": "1793373027"
+  },
+  "entity": [
+    {
+      "id": "VP_05152",
+      "vehicle": {
+        "trip": {
+          "tripId": "0515212026-10-30"
+        },
+        "position": {
+          "latitude": 38.88433,
+          "longitude": -1.1449068
+        },
+        "currentStatus": "IN_TRANSIT_TO",
+        "stopId": "60911",
+        "vehicle": {
+          "id": "05152",
+          "label": "05152"
+        }
+      }
+    },
+    {
+      "id": "VP_13014",
+      "vehicle": {
+        "trip": {
+          "tripId": "1301412026-10-30"
+        },
+        "position": {
+          "latitude": 37.287285,
+          "longitude": -5.9234576
+        },
+        "currentStatus": "STOPPED_AT",
+        "stopId": "51203",
+        "vehicle": {
+          "id": "13014",
+          "label": "13014"
+        }
+      }
+    }
+  ]
+}
+
